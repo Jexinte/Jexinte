@@ -33,7 +33,8 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
+  <a href="https://phpstan.org/user-guide/getting-started" target="_blank" rel="noreferrer"> <img src="https://phpstan.org/images/logo-big.png" alt="phpstan" width="40" height="40"/> </a>
+  <a href="https://github.com/phpro/grumphp" target="_blank" rel="noreferrer"> <img src="https://www.kobzarev.com/wp-content/uploads/2018/12/grumphp-cover.jpg" alt="grumphp" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jexinte&show_icons=true&locale=en&layout=compact" alt="jexinte" /></p>
