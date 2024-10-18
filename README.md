@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 Je travaille pour le moment sur une API PHP sans Framework afin d'approfondir ma connaissance du langage :  [Expense Tracker API Without Frawework](https://github.com/Jexinte/Expense-tracker-api)
 
-- Mes projets [https://github.com/Jexinte?tab=repositories](https://github.com/Jexinte?tab=repositories)
+- Mes projets ⚡⚡⚡ [https://github.com/Jexinte?tab=repositories](https://github.com/Jexinte?tab=repositories)
+- Mes challenges en front ⚡⚡⚡ [https://www.frontendmentor.io/profile/Jexinte](https://www.frontendmentor.io/profile/Jexinte)
+- Mes katas en back ⚡⚡⚡ [https://www.codewars.com/users/Jexinte/completed](https://www.codewars.com/users/Jexinte/completed)
 
 - ⚡ Hmm... **Mes goûts en voiture sont apparemment d'un ancien temps**
 
