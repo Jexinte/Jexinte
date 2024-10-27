@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jexinte" alt="jexinte" /></a> </p>
 
-- 🔭 Je travaille pour le moment sur une API PHP sans Framework afin d'approfondir ma connaissance du langage :  [Expense Tracker API Without Frawework](https://github.com/Jexinte/Expense-tracker-api)
-
 - Mes projets ⚡⚡⚡ [https://github.com/Jexinte?tab=repositories](https://github.com/Jexinte?tab=repositories)
 - Mes challenges en front ⚡⚡⚡ [https://www.frontendmentor.io/profile/Jexinte](https://www.frontendmentor.io/profile/Jexinte)
 - Mes katas en back ⚡⚡⚡ [https://www.codewars.com/users/Jexinte/completed](https://www.codewars.com/users/Jexinte/completed)
