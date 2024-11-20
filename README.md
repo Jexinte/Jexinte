@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Bonjour👋, Ici Jexinte</h1>
-<h3 align="center">Un développeur en recherche d'une alternance</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jexinte" alt="jexinte" /></a> </p>
 
